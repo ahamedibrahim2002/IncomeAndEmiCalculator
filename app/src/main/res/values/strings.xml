@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="principle_amount">Principle Amount</string>
+    <string name="interest_rate">Interest Rate Per Year</string>
+    <string name="how_many_years">How Many Years</string>
+    <string name="calculate">Calculate</string>
+    <string name="emi">Emi</string>
+    <string name="totalAmount_with_Interest">Total Amount With Interest</string>
+    <string name="enterYourIncome">Enter Your Income</string>
+    <string name="result">Result</string>
+    <string name="emiCalulator">Emi Calculator</string>
+    <string name="incomeCalculator">Income Calculator</string>
+    <string name="clear">Clear</string>
+    <string name="calculationeasier">Make Calculation Now More Easier</string>
+    <string name="theme">Theme</string>
+</resources>
